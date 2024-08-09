@@ -18,6 +18,12 @@ As a Software Engineer, I specialize in creating robust and efficient systems th
 - **UI Design**: Pixel-perfect UI designs using ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 - **Best Practices**: Adherence to industry standards and best practices for responsive and accessible design
 
+#### 🚀 DevOps & Cloud
+- **Tools & Platforms**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Cloud](https://img.shields.io/badge/-Cloud%20Platforms-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+#### 🔍 Monitoring & Testing
+- **Tools**: ![Rspec](https://img.shields.io/badge/-Rspec-FF0000?style=flat-square&logo=rspec&logoColor=white) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+
 ### 🧰 Professional Experience
 
 Throughout my career, I've been committed to delivering high-quality solutions in collaborative environments. Whether it's conducting thorough code reviews, implementing industry and business standards, or collaborating with cross-functional teams, I consistently aim to achieve excellence in every project.
