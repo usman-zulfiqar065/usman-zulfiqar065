@@ -34,7 +34,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - **Email**: [usman.zulfiqar065@gmail.com](mailto:usman.zulfiqar065@gmail.com)
 - **LinkedIn**: [Usman Zulfiqar](https://www.linkedin.com/in/usman-zulfiqar)
-- **GitHub**: [Usman Zulfiqar](https://github.com/usman-zulfiqar065)
 
 Thank you for visiting my portfolio repository. I look forward to connecting with you!
 
