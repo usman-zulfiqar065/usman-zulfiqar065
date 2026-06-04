@@ -1,6 +1,6 @@
 # 🧑‍💻 Usman Zulfiqar - Software Engineer
 
-I'm **Usman Zulfiqar**, a passionate Software Engineer with over 4 years of hands-on experience in developing high-quality, scalable, and maintainable software solutions. This repository showcases my work, skills, and experience in both front-end and back-end development.
+I'm **Usman Zulfiqar**, a passionate Software Engineer with over 5+ years of hands-on experience in developing high-quality, scalable, and maintainable software solutions. This repository showcases my work, skills, and experience in both front-end and back-end development.
 
 ## 👨‍💻 About Me
 
